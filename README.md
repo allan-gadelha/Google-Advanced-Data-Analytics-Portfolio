@@ -8,14 +8,14 @@ Data Analytics | Machine Learning | Data Viz
 
 Google Advanced Data Analytics from coursera: https://www.coursera.org/professional-certificates/google-advanced-data-analytics?
 
-What i've learned:
+**What I've Learned:**
 
-Explore the crucial roles of data professionals within organizations.<br>
-Create compelling data visualizations and apply statistical methods to investigate data.<br>
-Build robust regression and machine learning models for in-depth data analysis and interpretation.<br>
-Effectively communicate insights derived from data analysis to stakeholders.
+- Explore the crucial roles of data professionals within organizations.
+- Create compelling data visualizations and apply statistical methods to investigate data.
+- Build robust regression and machine learning models for in-depth data analysis and interpretation.
+- Effectively communicate insights derived from data analysis to stakeholders.
 
-Skills i've learned:
+**Skills I've learned:**
 
 | Category                 | Skills                                      |
 |--------------------------|---------------------------------------------|
