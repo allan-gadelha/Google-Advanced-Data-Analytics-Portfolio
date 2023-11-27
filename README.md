@@ -15,20 +15,17 @@ Create compelling data visualizations and apply statistical methods to investiga
 Build robust regression and machine learning models for in-depth data analysis and interpretation.<br>
 Effectively communicate insights derived from data analysis to stakeholders.
 
-Skills I've Gained:
+Skills i've learned:
 
-Data Science<br>
-Data Analysis<br>
-Python Programming<br>
-Jupyter Notebook<br>
-Machine Learning<br>
-Statistical Analysis<br>
-Tableau Software<br>
-Data Visualization (Data Viz)<br>
-Predictive Modeling<br>
-Kaggle<br>
-Exploratory Data Analysis (EDA)<br>
-Regression Models
+| Category                 | Skills                                      |
+|--------------------------|---------------------------------------------|
+| Data Science             | Data Analysis, Machine Learning              |
+| Programming              | Python Programming, Jupyter Notebook        |
+| Data Visualization       | Tableau Software, Data Visualization (Data Viz) |
+| Predictive Modeling      | Kaggle, Regression Models                   |
+| Exploratory Data Analysis | Exploratory Data Analysis (EDA)             |
+| Statistical Analysis     | Statistical Analysis                        |
+
 
 ## Projects
 
